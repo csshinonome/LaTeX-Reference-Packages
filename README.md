@@ -1,2 +1,2 @@
 # LaTeX-Reference-Packages
-This repository shares my documentation in the process of learning LaTeX, and I hope it will help you.
+This repository showcases my documentation throughout the process of learning LaTeX, and I sincerely hope it will be of assistance and inspiration to you!
